@@ -17,6 +17,7 @@ Utilized PyTorch and TorchVision for efficient training and inference pipelines.
 Current Status:
 
 The project is funded by VELS University and is being prepared for real-world agricultural deployment.
+
 💡Key Achievements:
 
 Scalable Framework: Adaptable to additional crops and diseases.
