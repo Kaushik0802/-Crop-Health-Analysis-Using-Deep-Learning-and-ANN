@@ -1,4 +1,5 @@
 # Crop Health Analysis Using Deep Learning and ANN
+Dataset- https://www.kaggle.com/datasets/kaushikkumar208/plant-disease-detection
 
 🚀Developed an AI system for early, accurate plant disease detection using advanced image processing and deep learning techniques to enhance productivity and reduce manual effort.
 
